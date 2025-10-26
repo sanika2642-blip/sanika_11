@@ -8,9 +8,8 @@
 - Cybersecurity basics (learning ethical hacking, network security)
 
 📂 Projects:
-- [Cute Message Site](link-to-your-project) - A messaging app I built to practice web development.
+- [Cute Message Site](https://sanika2642-blip.github.io/cute-message-site/) - A messaging app I built to practice web development.
 - Planning a new cybersecurity project soon!
 
 📫 How to reach me:
-- [LinkedIn](your-linkedin-link)
-- [Email](mailto:your-email@example.com)
+- [Email](sanika2642@gmail.com)
