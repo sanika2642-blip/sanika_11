@@ -12,4 +12,4 @@
 - Planning a new cybersecurity project soon!
 
 📫 How to reach me:
-- [Email](sanika2642@gmail.com)
+- Email: sanika2642@gmail.com
