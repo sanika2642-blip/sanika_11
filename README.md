@@ -1,15 +1,32 @@
-# Hi, I'm Sanika 👋
+## 👋 Hi, I'm Sanika Jadhav  
+B.Sc. Computer Science | Cybersecurity & Data Analysis Enthusiast | Python Learner
 
-👩‍🎓 I am a third-year BSc Computer Science student passionate about coding and cybersecurity.
+### 🔍 Latest Project: IBM HR Attrition EDA  
+I recently completed a full Exploratory Data Analysis project using the IBM HR Analytics dataset.
 
-🛠️ Skills & Technologies:
-- Python, JavaScript, C++
-- Web Development (HTML, CSS, JS)
-- Cybersecurity basics (learning ethical hacking, network security)
+📌 **Project Link:**  
+👉 [IBM HR Employee Attrition EDA](https://github.com/sanika2642-blip/ibm-hr-attrition-eda)
 
-📂 Projects:
-- [Cute Message Site](https://sanika2642-blip.github.io/cute-message-site/) - A messaging app I built to practice web development.
-- Planning a new cybersecurity project soon!
+### 🛠 Tech Skills  
+- Python (Pandas, NumPy, Matplotlib, Seaborn)  
+- Jupyter Notebook  
+- Data Cleaning & EDA  
+- Visualization & Insight Extraction  
+- Cybersecurity Learner  
+- SQL (beginner)
 
-📫 How to reach me:
-- Email: sanika2642@gmail.com
+### ⭐ About Me  
+- I love working on data-driven projects  
+- I enjoy learning cybersecurity tools & concepts  
+- Always open to collaboration and new projects  
+- Passionate about tech, learning, and building real skills
+
+### 🌱 Currently Learning  
+- More Python  
+- Cybersecurity fundamentals  
+- SQL & Databases  
+- Predictive Modeling basics  
+
+### 📫 how to reach me
+email:sanika2642@gmail.com
+
